@@ -1,3 +1,10 @@
+#config
+config = {"user":"postgres",
+          "password": "Cheater#12",
+          "driver":"org.postgresql.Driver"}
+# Additional files
+Amazon_Reviews_ETL.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
